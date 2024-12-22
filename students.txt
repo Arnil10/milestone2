@@ -1,0 +1,4 @@
+
+{"id":1,"name":"John Doe","courses":["Mathematics"]}
+{"id":2,"name":"lahn Doe","courses":["Mathematics"]}
+{"id":2,"name":"lahn Doe","courses":["science"]}
